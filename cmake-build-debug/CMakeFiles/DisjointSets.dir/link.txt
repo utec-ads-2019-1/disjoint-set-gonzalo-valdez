@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/DisjointSets.dir/main.cpp.o  -o DisjointSets.exe -Wl,--out-implib,libDisjointSets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

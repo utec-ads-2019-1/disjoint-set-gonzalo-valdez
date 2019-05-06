@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Programacion/DisjointSets/main.cpp
+iostream
+-
+node.h
+/cygdrive/c/Programacion/DisjointSets/node.h
+map
+-
+
+/cygdrive/c/Programacion/DisjointSets/node.h
+
